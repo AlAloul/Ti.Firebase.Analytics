@@ -6,6 +6,8 @@ This repo is in planning!
 
 Please follow the howto from google above. For binding to your account you have to generate a google-services.json on google api console and copy to you Resources folder.
 
+<iframe src="https://www.youtube.com/watch?v=3UkLMcegenk" width=580 height=320 />
+
 Usage/interface
 ---------------
 ```javascript
