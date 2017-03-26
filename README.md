@@ -4,6 +4,8 @@ This is Titanium module for realising of [tracking of app events by firebase.ana
 
 This repo is in planning!
 
+Please follow the howto from google above. For binding to your account you have to generate a google-services.json on google api console and copy to you Resources folder.
+
 Usage/interface
 ---------------
 ```javascript
