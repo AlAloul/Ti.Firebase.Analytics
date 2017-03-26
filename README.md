@@ -1,11 +1,11 @@
-#Ti.Firebase.Analytics
-
+Ti.Firebase.Analytics
+=====================
 This is Titanium module for realising of [tracking of app events by firebase.analytics](https://support.google.com/adwords/answer/6366292?hl=en).
 
 This repo is in planning!
 
-##Usage/interface
-
+Usage/interface
+---------------
 ```javascript
 Ti.App.FirebaseAnalytics = require("ti.firebase.analytics");
 // ………
